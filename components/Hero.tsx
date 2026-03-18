@@ -16,10 +16,7 @@ export default function Hero() {
             <br />
             <span className="line-orange">Workshop</span>
             <br />
-            <span
-              className="gradient-text"
-              style={{ display: "inline-block" }}
-            >
+            <span className="gradient-text" style={{ display: "inline-block" }}>
               Smarter
             </span>
           </h1>
@@ -32,7 +29,7 @@ export default function Hero() {
             <a href="#" className="btn btn-primary btn-lg">
               Start Free — No Card Needed
             </a>
-            <a href="#" className="btn btn-ghost btn-lg">
+            <a href="/garageos-demo.html" className="btn btn-ghost btn-lg">
               See a Demo →
             </a>
           </div>
@@ -106,34 +103,16 @@ export default function Hero() {
                       Weekly Revenue — R41.2k ↑
                     </div>
                     <div className="mockup-chart-bars">
-                      <div
-                        className="chart-bar"
-                        style={{ height: "55%" }}
-                      />
-                      <div
-                        className="chart-bar"
-                        style={{ height: "70%" }}
-                      />
-                      <div
-                        className="chart-bar"
-                        style={{ height: "45%" }}
-                      />
-                      <div
-                        className="chart-bar"
-                        style={{ height: "80%" }}
-                      />
-                      <div
-                        className="chart-bar"
-                        style={{ height: "60%" }}
-                      />
+                      <div className="chart-bar" style={{ height: "55%" }} />
+                      <div className="chart-bar" style={{ height: "70%" }} />
+                      <div className="chart-bar" style={{ height: "45%" }} />
+                      <div className="chart-bar" style={{ height: "80%" }} />
+                      <div className="chart-bar" style={{ height: "60%" }} />
                       <div
                         className="chart-bar active"
                         style={{ height: "90%" }}
                       />
-                      <div
-                        className="chart-bar"
-                        style={{ height: "65%" }}
-                      />
+                      <div className="chart-bar" style={{ height: "65%" }} />
                     </div>
                   </div>
 
